@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bp-podcast-chatbot/static/css/main.a5bdf634.css",
+    "main.js": "/bp-podcast-chatbot/static/js/main.7c62fa05.js",
+    "index.html": "/bp-podcast-chatbot/index.html",
+    "main.a5bdf634.css.map": "/bp-podcast-chatbot/static/css/main.a5bdf634.css.map",
+    "main.7c62fa05.js.map": "/bp-podcast-chatbot/static/js/main.7c62fa05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5bdf634.css",
+    "static/js/main.7c62fa05.js"
+  ]
+}
