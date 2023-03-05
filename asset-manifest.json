@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bp-podcast-chatbot/static/css/main.9f3b89c8.css",
+    "main.css": "/bp-podcast-chatbot/static/css/main.d234c28a.css",
     "main.js": "/bp-podcast-chatbot/static/js/main.effcdf8f.js",
     "index.html": "/bp-podcast-chatbot/index.html",
-    "main.9f3b89c8.css.map": "/bp-podcast-chatbot/static/css/main.9f3b89c8.css.map",
+    "main.d234c28a.css.map": "/bp-podcast-chatbot/static/css/main.d234c28a.css.map",
     "main.effcdf8f.js.map": "/bp-podcast-chatbot/static/js/main.effcdf8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f3b89c8.css",
+    "static/css/main.d234c28a.css",
     "static/js/main.effcdf8f.js"
   ]
 }
